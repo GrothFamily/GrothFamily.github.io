@@ -1,0 +1,482 @@
+{
+    "photo_album": [
+        {
+            "fileName": "1",
+            "filePath": "../../New_Website/OldestLadyOnFront/1.JPG",
+            "peopleInPhoto": "Hamman Family Album (Front Cover)",
+            "rotate": "",
+            "row" : "start"
+        },
+        {
+            "fileName": "2",
+            "filePath": "../../New_Website/OldestLadyOnFront/2.JPG",
+            "peopleInPhoto": "",
+            "rotate": ""
+        },
+        {
+            "fileName": "3",
+            "filePath": "../../New_Website/OldestLadyOnFront/3.JPG",
+            "peopleInPhoto": "",
+            "rotate": ""
+        },
+        {
+            "fileName": "4",
+            "filePath": "../../New_Website/OldestLadyOnFront/4.JPG",
+            "peopleInPhoto": "",
+            "rotate": "",
+            "row" :"end"
+        },
+        {
+            "fileName": "5",
+            "filePath": "../../New_Website/OldestLadyOnFront/5.JPG",
+            "peopleInPhoto": "",
+            "rotate": "",
+            "row" : "start"
+        },
+        {
+            "fileName": "6",
+            "filePath": "../../New_Website/OldestLadyOnFront/6.JPG",
+            "peopleInPhoto": "",
+            "rotate": ""
+        },
+        {
+            "fileName": "7",
+            "filePath": "../../New_Website/OldestLadyOnFront/7.JPG",
+            "peopleInPhoto": "",
+            "rotate": ""
+        },
+        {
+            "fileName": "8",
+            "filePath": "../../New_Website/OldestLadyOnFront/8.JPG",
+            "peopleInPhoto": "",
+            "rotate": "",
+            "row" : "end"
+        },
+        {
+            "fileName": "9",
+            "filePath": "../../New_Website/OldestLadyOnFront/9.JPG",
+            "peopleInPhoto": "",
+            "rotate": "",
+            "row":"start"
+        },
+        {
+            "fileName": "10",
+            "filePath": "../../New_Website/OldestLadyOnFront/10.JPG",
+            "peopleInPhoto": "",
+            "rotate": ""
+        },
+        {
+            "fileName": "11",
+            "filePath": "../../New_Website/OldestLadyOnFront/11.JPG",
+            "peopleInPhoto": "",
+            "rotate": ""
+        },
+        {
+            "fileName": "12",
+            "filePath": "../../New_Website/OldestLadyOnFront/12.JPG",
+            "peopleInPhoto": "",
+            "rotate": "",
+            "row":"end"
+        },
+        {
+            "fileName": "13",
+            "filePath": "../../New_Website/OldestLadyOnFront/13.JPG",
+            "peopleInPhoto": "",
+            "rotate": "",
+            "row":"start"
+        },
+        {
+            "fileName": "14",
+            "filePath": "../../New_Website/OldestLadyOnFront/14.JPG",
+            "peopleInPhoto": "",
+            "rotate": ""
+        },
+        {
+            "fileName": "15",
+            "filePath": "../../New_Website/OldestLadyOnFront/15.JPG",
+            "peopleInPhoto": "",
+            "rotate": ""
+        },
+        {
+            "fileName": "16",
+            "filePath": "../../New_Website/OldestLadyOnFront/16.JPG",
+            "peopleInPhoto": "",
+            "rotate": "",
+            "row":"end"
+        },
+        {
+            "fileName": "17",
+            "filePath": "../../New_Website/OldestLadyOnFront/17.JPG",
+            "peopleInPhoto": "",
+            "rotate": "",
+            "row":"start"
+        },
+        {
+            "fileName": "18",
+            "filePath": "../../New_Website/OldestLadyOnFront/18.JPG",
+            "peopleInPhoto": "",
+            "rotate": ""
+        },
+        {
+            "fileName": "19",
+            "filePath": "../../New_Website/OldestLadyOnFront/19.JPG",
+            "peopleInPhoto": "",
+            "rotate": ""
+        },
+        {
+            "fileName": "20",
+            "filePath": "../../New_Website/OldestLadyOnFront/20.JPG",
+            "peopleInPhoto": "",
+            "rotate": "",
+            "row":"end"
+        },
+        {
+            "fileName": "21",
+            "filePath": "../../New_Website/OldestLadyOnFront/21.JPG",
+            "peopleInPhoto": "",
+            "rotate": "",
+            "row":"start"
+        },
+        {
+            "fileName": "22",
+            "filePath": "../../New_Website/OldestLadyOnFront/22.JPG",
+            "peopleInPhoto": "",
+            "rotate": ""
+        },
+        {
+            "fileName": "23",
+            "filePath": "../../New_Website/OldestLadyOnFront/23.JPG",
+            "peopleInPhoto": "",
+            "rotate": ""
+        },
+        {
+            "fileName": "24",
+            "filePath": "../../New_Website/OldestLadyOnFront/24.JPG",
+            "peopleInPhoto": "",
+            "rotate": "",
+            "row":"end"
+        },
+        {
+            "fileName": "25",
+            "filePath": "../../New_Website/OldestLadyOnFront/25.jpg",
+            "peopleInPhoto": "Bertha and Henry Hamman, Backside",
+            "rotate": "",
+            "row":"start"
+        },
+        {
+            "fileName": "26",
+            "filePath": "../../New_Website/OldestLadyOnFront/26.jpg",
+            "peopleInPhoto": "Bertha and Henry Hamman",
+            "rotate": ""
+        },
+        {
+            "fileName": "27",
+            "filePath": "../../New_Website/OldestLadyOnFront/27.jpg",
+            "peopleInPhoto": "Charles Hamman, Backside",
+            "rotate": ""
+        },
+        {
+            "fileName": "28",
+            "filePath": "../../New_Website/OldestLadyOnFront/28.jpg",
+            "peopleInPhoto": "Charles Hamman",
+            "rotate": "",
+            "row":"end"
+        },
+        {
+            "fileName": "29",
+            "filePath": "../../New_Website/OldestLadyOnFront/29.jpg",
+            "peopleInPhoto": "Augusta Hamman, Backside",
+            "rotate": "",
+            "row":"start"
+        },
+        {
+            "fileName": "30",
+            "filePath": "../../New_Website/OldestLadyOnFront/30.jpg",
+            "peopleInPhoto": "Augusta Hamman",
+            "rotate": ""
+        },
+        {
+            "fileName": "31",
+            "filePath": "../../New_Website/OldestLadyOnFront/31.jpg",
+            "peopleInPhoto": "Augusta Hamman and Frank Hamman, Backside",
+            "rotate": ""
+        },
+        {
+            "fileName": "32",
+            "filePath": "../../New_Website/OldestLadyOnFront/32.jpg",
+            "peopleInPhoto": "Augusta Hamman 12 and Frank Hamman 4 (b. 1894, d. 1977)",
+            "rotate": "",
+            "row":"end"
+        },
+        {
+            "fileName": "33",
+            "filePath": "../../New_Website/OldestLadyOnFront/33.jpg",
+            "peopleInPhoto": "Grandpa and Grandma Peter with Daughters, Backside",
+            "rotate": "",
+            "row":"start"
+        },
+        {
+            "fileName": "34",
+            "filePath": "../../New_Website/OldestLadyOnFront/34.jpg",
+            "peopleInPhoto": "Grandpa and Grandma Peter with Daughters, ? (lt) and Bertha Peter Hamman (rt), (1869)",
+            "rotate": ""
+        },
+        {
+            "fileName": "35",
+            "filePath": "../../New_Website/OldestLadyOnFront/35.jpg",
+            "peopleInPhoto": "Bertha and Henry Hamman, Children Augusta and Frank, Backside",
+            "rotate": ""
+        },
+        {
+            "fileName": "36",
+            "filePath": "../../New_Website/OldestLadyOnFront/36.jpg",
+            "peopleInPhoto": "Bertha and Henry Hamman, Children August and Frank",
+            "rotate": "",
+            "row":"end"
+        },
+        {
+            "fileName": "37",
+            "filePath": "../../New_Website/OldestLadyOnFront/37.jpg",
+            "peopleInPhoto": "Frank Hamman, Confirmation (13 yrs ?), Backside",
+            "rotate": "",
+            "row":"start"
+        },
+        {
+            "fileName": "38",
+            "filePath": "../../New_Website/OldestLadyOnFront/38.jpg",
+            "peopleInPhoto": "Frank Hamman, Confirmation (13 yrs ?)",
+            "rotate": ""
+        },
+        {
+            "fileName": "39",
+            "filePath": "../../New_Website/OldestLadyOnFront/39.jpg",
+            "peopleInPhoto": "Anna Hamman, Backside",
+            "rotate": ""
+        },
+        {
+            "fileName": "40",
+            "filePath": "../../New_Website/OldestLadyOnFront/40.jpg",
+            "peopleInPhoto": "Anna Hamman",
+            "rotate": "",
+            "row":"end"
+        },
+        {
+            "fileName": "41",
+            "filePath": "../../New_Website/OldestLadyOnFront/41.jpg",
+            "peopleInPhoto": "Anna Hamman (b. Jul 1905, d. Jan 2003), Backside",
+            "rotate": "",
+            "row":"start"
+        },
+        {
+            "fileName": "42",
+            "filePath": "../../New_Website/OldestLadyOnFront/42.jpg",
+            "peopleInPhoto": "Anna Hamman (b. Jul 1905, d. Jan 2003)",
+            "rotate": ""
+        },
+        {
+            "fileName": "43",
+            "filePath": "../../New_Website/OldestLadyOnFront/43.jpg",
+            "peopleInPhoto": "Anna Hamman, Confirmation Mar 1918, Backside",
+            "rotate": ""
+        },
+        {
+            "fileName": "44",
+            "filePath": "../../New_Website/OldestLadyOnFront/44.jpg",
+            "peopleInPhoto": "Anna Hamman, Confirmation Mar 1918",
+            "rotate": "",
+            "row":"end"
+        },
+        {
+            "fileName": "45",
+            "filePath": "../../New_Website/OldestLadyOnFront/45.jpg",
+            "peopleInPhoto": "Anna Hamman (Groth), East High School Graduation 1923, Rochester, NY",
+            "rotate": "",
+            "row":"start"
+        },
+        {
+            "fileName": "46",
+            "filePath": "../../New_Website/OldestLadyOnFront/46.jpg",
+            "peopleInPhoto": "Frank 'Bud' Hamman Jr., Backside",
+            "rotate": ""
+        },
+        {
+            "fileName": "47",
+            "filePath": "../../New_Website/OldestLadyOnFront/47.jpg",
+            "peopleInPhoto": "Frank 'Bud' Hamman Jr.",
+            "rotate": ""
+        },
+        {
+            "fileName": "48",
+            "filePath": "../../New_Website/OldestLadyOnFront/48.jpg",
+            "peopleInPhoto": "Russell Hamman, Backside",
+            "rotate": "",
+            "row":"end"
+        },
+        {
+            "fileName": "49",
+            "filePath": "../../New_Website/OldestLadyOnFront/49.jpg",
+            "peopleInPhoto": "Russell Hamman",
+            "rotate": "",
+            "row":"start"
+        },
+        {
+            "fileName": "50",
+            "filePath": "../../New_Website/OldestLadyOnFront/50.jpg",
+            "peopleInPhoto": "No Name / Russell",
+            "rotate": ""
+        },
+        {
+            "fileName": "51",
+            "filePath": "../../New_Website/OldestLadyOnFront/51.jpg",
+            "peopleInPhoto": "Anna Gipp Halligan, Backside",
+            "rotate": ""
+        },
+        {
+            "fileName": "52",
+            "filePath": "../../New_Website/OldestLadyOnFront/52.jpg",
+            "peopleInPhoto": "Anna Gipp Halligan",
+            "rotate": "",
+            "row":"end"
+        },
+        {
+            "fileName": "53",
+            "filePath": "../../New_Website/OldestLadyOnFront/53.jpg",
+            "peopleInPhoto": "James 'Jim' Halligan, Backside",
+            "rotate": "",
+            "row":"start"
+        },
+        {
+            "fileName": "54",
+            "filePath": "../../New_Website/OldestLadyOnFront/54.jpg",
+            "peopleInPhoto": "James 'Jim' Halligan",
+            "rotate": ""
+        },
+        {
+            "fileName": "55",
+            "filePath": "../../New_Website/OldestLadyOnFront/55.jpg",
+            "peopleInPhoto": "Richard Halligan, died from a blast on a WWII Ammunition ship, Backside",
+            "rotate": ""
+        },
+        {
+            "fileName": "56",
+            "filePath": "../../New_Website/OldestLadyOnFront/56.jpg",
+            "peopleInPhoto": "Richard Halligan",
+            "rotate": "",
+            "row":"end"
+        },
+        {
+            "fileName": "57",
+            "filePath": "../../New_Website/OldestLadyOnFront/57.jpg",
+            "peopleInPhoto": "Ruth Halligan (adopted)",
+            "rotate": "",
+            "row":"start"
+        },
+        {
+            "fileName": "58",
+            "filePath": "../../New_Website/OldestLadyOnFront/58.jpg",
+            "peopleInPhoto": "Margaret 'Peg' Halligan, High School Gaduation, Backside",
+            "rotate": ""
+        },
+        {
+            "fileName": "59",
+            "filePath": "../../New_Website/OldestLadyOnFront/59.jpg",
+            "peopleInPhoto": "Margaret 'Peg' Halligan, High School Graduation",
+            "rotate": ""
+        },
+        {
+            "fileName": "60",
+            "filePath": "../../New_Website/OldestLadyOnFront/60.jpg",
+            "peopleInPhoto": "Evelyn Fritz (Augusta Hamman's daughter)",
+            "rotate": "",
+            "row":"end"
+
+        },
+        {
+            "fileName": "61",
+            "filePath": "../../New_Website/OldestLadyOnFront/61.jpg",
+            "peopleInPhoto": "Fredericka and Joseph Peter with Bertha Peter Hamman, Backside",
+            "rotate": "",
+            "row":"start"
+        },
+        {
+            "fileName": "62",
+            "filePath": "../../New_Website/OldestLadyOnFront/62.jpg",
+            "peopleInPhoto": "Fredericka and Joseph with Betha Peter Hamman",
+            "rotate": ""
+        },
+        {
+            "fileName": "63",
+            "filePath": "../../New_Website/OldestLadyOnFront/63.jpg",
+            "peopleInPhoto": "Anson, Irene, Archie (b. 1902, d. 1989), Children of Otto Groth, Backside",
+            "rotate": ""
+        },
+        {
+            "fileName": "64",
+            "filePath": "../../New_Website/OldestLadyOnFront/64.JPG",
+            "peopleInPhoto": "Anson, Irene, Archie (b. 1902, d. 1989)",
+            "rotate": "",
+            "row":"end"
+        },
+        {
+            "fileName": "65",
+            "filePath": "../../New_Website/OldestLadyOnFront/65.jpg",
+            "peopleInPhoto": "Harriet and Otto Groth (wedding picture), Backside",
+            "rotate": "",
+            "row":"start"
+        },
+        {
+            "fileName": "66",
+            "filePath": "../../New_Website/OldestLadyOnFront/66.jpg",
+            "peopleInPhoto": "Harriet and Otto Groth (wedding picture)",
+            "rotate": ""
+        },
+        {
+            "fileName": "67",
+            "filePath": "../../New_Website/OldestLadyOnFront/67.jpg",
+            "peopleInPhoto": "Otto Groth (65 yrs), Backside",
+            "rotate": ""
+        },
+        {
+            "fileName": "68",
+            "filePath": "../../New_Website/OldestLadyOnFront/68.jpg",
+            "peopleInPhoto": "Otto Groth",
+            "rotate": "",
+            "row":"end"
+        },
+        {
+            "fileName": "69",
+            "filePath": "../../New_Website/OldestLadyOnFront/69.jpg",
+            "peopleInPhoto": "Henrietta and Herman",
+            "rotate": "",
+            "row":"start"
+        },
+        {
+            "fileName": "70",
+            "filePath": "../../New_Website/OldestLadyOnFront/70.jpg",
+            "peopleInPhoto": "Leon Doolittle",
+            "rotate": "",
+            "row":""
+        },
+        {
+            "fileName": "71",
+            "filePath": "../../New_Website/OldestLadyOnFront/71.jpg",
+            "peopleInPhoto": "Anna Hamman",
+            "rotate": "",
+            "row":""
+        },
+        {
+            "fileName": "72",
+            "filePath": "../../New_Website/OldestLadyOnFront/72.jpg",
+            "peopleInPhoto": "(Back: Henry, Augusta) (Front: Sophia, John, Fred) Hamman",
+            "rotate": "",
+            "row":"end"
+        },
+        {
+            "fileName": "73",
+            "filePath": "../../New_Website/OldestLadyOnFront/73.jpg",
+            "peopleInPhoto": "",
+            "rotate": "",
+            "row":"start"
+        }
+    ]
+}

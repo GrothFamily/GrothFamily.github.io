@@ -1,0 +1,382 @@
+{
+    "photo_album": [
+        {
+            "fileName": "1",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_1_Front.jpg",
+            "peopleInPhoto": "Bertha and Henry Hamman / March 26th, 1936",
+            "rotate": "",
+            "row": "start"
+        },
+        {
+            "fileName": "Photo_1_Back",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_1_Back.jpg",
+            "peopleInPhoto": "",
+            "rotate": "",
+            "row": ""
+        },
+        {
+            "fileName": "Photo_2_Front",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_2_Front.jpg",
+            "peopleInPhoto": "Bertha Hamman / December 1932",
+            "rotate": "",
+            "row": ""
+        },
+        {
+            "fileName": "Photo_2_Back",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_2_Back.jpg",
+            "peopleInPhoto": "",
+            "rotate": "",
+            "row": "end"
+        },
+        {
+            "fileName": "Photo_3_Front",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_3_Front.jpg",
+            "peopleInPhoto": "Dave and Don Groth",
+            "rotate": "",
+            "row": "start"
+        },
+        {
+            "fileName": "Photo_3_Back",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_3_Back.jpg",
+            "peopleInPhoto": "",
+            "rotate": "",
+            "row": ""
+        },
+        {
+            "fileName": "Photo_4_Front",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_4_Front.jpg",
+            "peopleInPhoto": "Don Groth",
+            "rotate": "",
+            "row": ""
+        },
+        {
+            "fileName": "Photo_5_Front",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_5_Front.jpg",
+            "peopleInPhoto": "Anna, David, Don, Archie / January 1955",
+            "rotate": "",
+            "row": "end"
+        },
+        {
+            "fileName": "Photo_5_Back",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_5_Back.jpg",
+            "peopleInPhoto": "",
+            "rotate": "",
+            "row": "start"
+        },
+        {
+            "fileName": "Photo_6_Front",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_6_Front.jpg",
+            "peopleInPhoto": "Don Groth",
+            "rotate": "",
+            "row": ""
+        },
+        {
+            "fileName": "Photo_6_Back",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_6_Back.jpg",
+            "peopleInPhoto": "",
+            "rotate": "",
+            "row": ""
+        },
+        {
+            "fileName": "Photo_7_Front",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_7_Front.jpg",
+            "peopleInPhoto": "David Groth",
+            "rotate": "",
+            "row": "end"
+        },
+        {
+            "fileName": "Photo_7_Back",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_7_Back.jpg",
+            "peopleInPhoto": "",
+            "rotate": "",
+            "row": "start"
+        },
+        {
+            "fileName": "Photo_8_Front",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_8_Front.jpg",
+            "peopleInPhoto": "Archie and Anna",
+            "rotate": "",
+            "row": ""
+        },
+        {
+            "fileName": "Photo_8_Back",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_8_Back.jpg",
+            "peopleInPhoto": "",
+            "rotate": "",
+            "row": ""
+        },
+        {
+            "fileName": "Photo_9_Front",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_9_Front.jpg",
+            "peopleInPhoto": "Archie's 25th consecutive year at Kodak / June 1965",
+            "rotate": "",
+            "row": "end"
+        },
+        {
+            "fileName": "Photo_9_Back",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_9_Back.jpg",
+            "peopleInPhoto": "",
+            "rotate": "",
+            "row": "start"
+        },
+        {
+            "fileName": "Photo_10_Front",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_10_Front.jpg",
+            "peopleInPhoto": "Don and Virginia",
+            "rotate": "",
+            "row": ""
+        },
+        {
+            "fileName": "Photo_10_Back",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_10_Back.jpg",
+            "peopleInPhoto": "",
+            "rotate": "",
+            "row": ""
+        },
+        {
+            "fileName": "Photo_11_Front",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_11_Front.jpg",
+            "peopleInPhoto": "David and Patricia",
+            "rotate": "",
+            "row": "end"
+        },
+        {
+            "fileName": "Photo_11_Back",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_11_Back.jpg",
+            "peopleInPhoto": "",
+            "rotate": "",
+            "row": "start"
+        },
+        {
+            "fileName": "Photo_12_L_R",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_12_L_R.jpg",
+            "peopleInPhoto": "Lyle and Richard Groth",
+            "rotate": "",
+            "row": ""
+        },
+        {
+            "fileName": "Photo_13_R",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_13_R.jpg",
+            "peopleInPhoto": "Richard Groth",
+            "rotate": "",
+            "row": ""
+        },
+        {
+            "fileName": "Photo_14_L",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_14_L.jpg",
+            "peopleInPhoto": "Lyle Groth",
+            "rotate": "",
+            "row": "end"
+        },
+        {
+            "fileName": "Photo_15_L_R_S_C",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_15_L_R_S_C.jpg",
+            "peopleInPhoto": "Lyle and Richard / Scott and Cynde",
+            "rotate": "",
+            "row": "start"
+        },
+        {
+            "fileName": "Photo_16_L_R",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_16_L_R.jpg",
+            "peopleInPhoto": "Richard / Lyle",
+            "rotate": "",
+            "row": ""
+        },
+        {
+            "fileName": "Photo_17_D_P_L_R",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_17_D_P_L_R.jpg",
+            "peopleInPhoto": "David, Patricia, Lyle, Richard",
+            "rotate": "",
+            "row": ""
+        },
+        {
+            "fileName": "Photo_18_B_DPLRB",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_18_B_DPLRB.jpg",
+            "peopleInPhoto": "David, Patricia, Lyle, Richard, William 'Bill' / William 'Bill'",
+            "rotate": "",
+            "row": "end"
+        },
+        {
+            "fileName": "Photo_19_R",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_19_R.jpg",
+            "peopleInPhoto": "Richard Groth",
+            "rotate": "",
+            "row": "start"
+        },
+        {
+            "fileName": "Photo_20_L_R_B",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_20_L_R_B.jpg",
+            "peopleInPhoto": "Lyle / Richard / William 'Bill'",
+            "rotate": "",
+            "row": ""
+        },
+        {
+            "fileName": "Photo_21_LRB_DPLRB",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_21_LRB_DPLRB.jpg",
+            "peopleInPhoto": "Lyle, Richard, William 'Bill' / David, Patricia, Lyle, Richard, William 'Bill'",
+            "rotate": "",
+            "row": ""
+        },
+        {
+            "fileName": "Photo_22_B",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_22_B.jpg",
+            "peopleInPhoto": "William 'Bill'",
+            "rotate": "",
+            "row": "end"
+        },
+        {
+            "fileName": "Photo_23_B",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_23_B.jpg",
+            "peopleInPhoto": "William 'Bill'",
+            "rotate": "",
+            "row": "start"
+        },
+        {
+            "fileName": "Photo_24_DPLRB",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_24_DPLRB.jpg",
+            "peopleInPhoto": "David, Patricia, Lyle, Richard, William 'Bill'",
+            "rotate": "",
+            "row": ""
+        },
+        {
+            "fileName": "Photo_25_Don",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_25_Don.jpg",
+            "peopleInPhoto": "Don",
+            "rotate": "",
+            "row": ""
+        },
+        {
+            "fileName": "Photo_26_B",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_26_B.jpg",
+            "peopleInPhoto": "William 'Bill' Groth",
+            "rotate": "",
+            "row": "end"
+        },
+        {
+            "fileName": "Photo_27_L",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_27_L.jpg",
+            "peopleInPhoto": "Lyle Groth",
+            "rotate": "",
+            "row": "start"
+        },
+        {
+            "fileName": "Photo_28_C_R_S",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_28_C_R_S.jpg",
+            "peopleInPhoto": "Cynde, Richard, Scott",
+            "rotate": "",
+            "row": ""
+        },
+        {
+            "fileName": "Photo_29_S",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_29_S.jpg",
+            "peopleInPhoto": "Scott",
+            "rotate": "",
+            "row": ""
+        },
+        {
+            "fileName": "Photo_30_S",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_30_S.jpg",
+            "peopleInPhoto": "Scott",
+            "rotate": "",
+            "row": "end"
+        },
+        {
+            "fileName": "Photo_31_C",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_31_C.jpg",
+            "peopleInPhoto": "Cynde",
+            "rotate": "",
+            "row": "start"
+        },
+        {
+            "fileName": "Photo_32_C_S",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_32_C_S.jpg",
+            "peopleInPhoto": "Cynde and Scott",
+            "rotate": "",
+            "row": ""
+        },
+        {
+            "fileName": "Photo_33_C",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_33_C.jpg",
+            "peopleInPhoto": "Cynde",
+            "rotate": "",
+            "row": ""
+        },
+        {
+            "fileName": "Photo_34_C",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_34_C.jpg",
+            "peopleInPhoto": "Cynde",
+            "rotate": "",
+            "row": "end"
+        },
+        {
+            "fileName": "Photo_35_C",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_35_C.jpg",
+            "peopleInPhoto": "Cynde",
+            "rotate": "",
+            "row": "start"
+        },
+        {
+            "fileName": "Photo_36_C",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_36_C.jpg",
+            "peopleInPhoto": "Cynde",
+            "rotate": "",
+            "row": ""
+        },
+        {
+            "fileName": "Photo_37_S_B",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_37_S_B.jpg",
+            "peopleInPhoto": "Scott / William 'Bill'",
+            "rotate": "",
+            "row": ""
+        },
+        {
+            "fileName": "Photo_38_L",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_38_L.jpg",
+            "peopleInPhoto": "Lyle",
+            "rotate": "",
+            "row": "end"
+        },
+        {
+            "fileName": "Photo_39_Don",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_39_Don.jpg",
+            "peopleInPhoto": "Don",
+            "rotate": "",
+            "row": "start"
+        },
+        {
+            "fileName": "Photo_40_C",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_40_C.jpg",
+            "peopleInPhoto": "Cynde",
+            "rotate": "",
+            "row": ""
+        },
+        {
+            "fileName": "Photo_41_A_AO",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_41_A_AO.jpg",
+            "peopleInPhoto": "Anna and Archie",
+            "rotate": "",
+            "row": ""
+        },
+        {
+            "fileName": "Photo_42_Dan_Cynde",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_42_Dan_Cynde.jpg",
+            "peopleInPhoto": "Dan and Cynde",
+            "rotate": "",
+            "row": "end"
+        },
+        {
+            "fileName": "Photo_43_A_AO_Church",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_43_A_AO_Church.jpg",
+            "peopleInPhoto": "Anna and Archie's Church",
+            "rotate": "",
+            "row": "start"
+        },
+        {
+            "fileName": "Photo_44_Henry",
+            "filePath": "../../New_Website/NotShoeStringBlack/Photo_44_Henry.jpg",
+            "peopleInPhoto": "Henry Hamman",
+            "rotate": "",
+            "row": "end"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "familyMembers":[
+        {
+            "profilePhoto" : "../../New_Website/ProfilePhotos/who.png",
+            "firstName" : "Heinrich",
+            "middleName" : "John",
+            "maidenName": "",
+            "lastName" : "Groth",
+            "sex" : "Male",
+            "age" : "57",
+            "birthday" : "August 26, 1873",
+            "birthPlace" : "Stolp, Prussia",
+            "deathday" : "December 5, 1930",
+            "deathPlace": "Rochester, NY",
+            "interred" : "",
+            "burialPlace" : "",
+            "causeOfDeath" : "",
+            "home" : "44 Bardin Street, Rochester NY",
+            "homeLink" : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d363.58703276721997!2d-77.63327069981062!3d43.19488366996464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d6b41fcfaef051%3A0x24562e4edf86ab5c!2s44%20Bardin%20St%2C%20Rochester%2C%20NY%2014615!5e0!3m2!1sen!2sus!4v1587940150611!5m2!1sen!2sus",
+            "parents" : "",
+            "spouse" : "Jennie (Viznan) Groth    (Parents: Joseph and Rosie from Canada)",
+            "marriageDate" : "December 5, 1895",
+            "children" : ["Walter Groth", "Edna P. Groth", "William Groth", "Albert G. Groth", "Edward Groth"],
+            "placesLived" : "92 Avis Street, Rochester NY",
+            "immigrationYear" : "April 6, 1881",
+            "occupation" : "Farmer",
+            "collegeDegree" : "",
+            "religion" : "",
+            "literate" : "",
+            "politicalAffiliation" : "",
+            "SSN" : "",
+            "otherInformation" : "",
+            "shipInformation" : "",
+            "whereWasInfoFound" : ""
+        }
+    ]
+}

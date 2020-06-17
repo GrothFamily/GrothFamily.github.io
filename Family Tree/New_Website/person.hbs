@@ -1,0 +1,265 @@
+<html>
+    <head>
+        <title>Groth Family Tree</title>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"></script>
+        <link rel = "stylesheet" href = "style.css">
+
+        <style>
+            img{
+                border-radius: 30%;
+            }
+        </style>
+    </head>
+    <body>
+        <nav class="navbar fixed-top navbar-expand-sm bg-dark navbar-dark">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="index.html"> Home </a>
+            </div>
+            <ul class="navbar-nav">
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Family Names
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="index.html">Groth</a>
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Groth Photo Albums
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class = "dropdown-item" href="photoAlbum1.html"> Old Lady Album </a>
+                        <a class = "dropdown-item" href="photoAlbum2.html"> Black Non Shoe String </a>
+                        <a class = "dropdown-item" href="photoAlbum3.html"> Shoe String </a>
+                        <a class = "dropdown-item" href="loosephotos.html"> Loose Photos </a>
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Documents
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class = "dropdown-item" href="Censuses.html"> Censuses </a>
+                        <a class = "dropdown-item" href="MarriageDeathOther.html"> Marriage/Death/Other </a>
+                        <a class = "dropdown-item" href="concordialuthchurch.html"> Concordia Lutheran Church </a>
+                    </div>
+                </li>
+                <li class = "nav-item"><a class = "nav-link" href="familyecho.html"> Family Echo </a></li>
+            </ul>
+	    </nav>
+        <div class = "container">
+            <div class = "jumbotron">
+                <center>
+                    
+                    <img src = {{profilePhoto}} style = "width:200px" >
+                    
+                    <h1> {{firstName}}
+                    {{#eq nickName ""}}
+						{{else}}
+							{{nickName}}
+					{{/eq}}
+                         {{middleName}}
+					{{#eq maidenName ""}}
+						{{else}}
+							{{maidenName}}
+					{{/eq}}
+					{{lastName}} </h1>
+                </center>
+            </div>
+            <div class = "headline" id = "information">
+                {{#eq home ""}}
+                    {{else}}
+                    <h3>Home:</h3>
+                    <button type = "button" class = "btn btn-info btn-md" data-toggle="modal" data-target = "#myModal"> {{home}} </button>
+                    <div class="modal fade" id="myModal" role="dialog">
+                        <div class="modal-dialog">
+                            <div class="modal-body">
+                                <center>
+                                    {{#eq homeLink ""}}
+                                        <h1 class = "text-white">Sorry there is no link</h1>
+                                        {{else}}
+                                        <iframe src= {{homeLink}} width="600" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
+                                    {{/eq}}
+                                </center>
+                            </div>
+                        </div>
+                    </div>
+                {{/eq}}
+                <div class = "headline">
+                    {{#eq birthday ""}}
+                        {{else}}
+                            <h3>Birthday:</h3> 
+                            <p>{{birthday}} <br></p>
+                    {{/eq}}
+                    {{#eq sex ""}}
+                        {{else}}
+                            <h3>Sex:</h3>
+                            <p>{{sex}} <br></p>
+                    {{/eq}}
+                    {{#eq age ""}}
+                        {{else}}
+                            <h3>Age:</h3>
+                            <p>{{age}} <br></p>
+                    {{/eq}}
+                    {{#eq deathday ""}}
+                        {{else}}
+                            <h3>Death Date: </h3>
+                            <p>{{deathday}} <br></p>
+                    {{/eq}}
+                    {{#eq interred ""}}
+                        {{else}}
+                            <h3>Interred Date: </h3>
+                            <p>{{interred}} <br></p>
+                    {{/eq}}
+                    {{#eq deathPlace ""}}
+                        {{else}}
+                            <h3>Death Place:</h3>
+                            <p>{{deathPlace}} <br></p>
+                    {{/eq}}
+                    {{#eq burialPlace ""}}
+                        {{else}}
+                            <h3>Burial Place:</h3>
+                            <p>{{burialPlace}} <br></p>
+                    {{/eq}}
+                    {{#eq causeOfDeath ""}}
+                        {{else}}
+                            <h3>Cause of Death:</h3>
+                            <p>{{causeOfDeath}} <br></p>
+                    {{/eq}}
+                    {{#eq birthPlace ""}}
+                        {{else}}
+                            <h3>Birth Place:</h3>
+                            <p>{{birthPlace}} <br></p>
+                    {{/eq}}
+                    {{#eq parents ""}}
+                        {{else}}
+                            <h3>Parents:</h3>
+                            {{#each parents}}
+                                <h5><li><a href = "{{fileExist}}"> {{this}} </a></li></h5>
+                            {{/each}}
+                    {{/eq}}
+                    {{#eq spouse ""}}
+                        {{else}}
+                            {{#if spouse}}
+                            <h3>Spouse's Name:</h3>
+                            <p><a href = "{{#spouseExist spouse}} {{/spouseExist}}"> {{spouse}} </a><br></p>
+                            {{/if}}
+                            {{#if spouse1}}
+                                <h3> Spouse:</h3>
+                                <p><a href = "{{#spouseExist spouse1}} {{/spouseExist}}"> {{spouse1}} </a><br></p>
+                                {{#if marriageDate1}}
+                                <h3>Marriage Date:</h3>
+                                <p>{{marriageDate1}} <br></p>
+                                {{/if}}
+                            {{/if}}
+                            {{#if spouse2}}
+                                <h3> 2nd Spouse:</h3>
+                                <p><a href = "{{#spouseExist spouse2}} {{/spouseExist}}"> {{spouse2}} </a><br></p>
+                                {{#if marriageDate2}}
+                                <h3>2nd Marriage Date:</h3>
+                                <p>{{marriageDate2}} <br></p>
+                                {{/if}}
+                            {{/if}}
+                            {{#if spouse3}}
+                                <h3> 1st Spouse:</h3>
+                                <p><a href = "{{#spouseExist spouse3}} {{/spouseExist}}"> {{spouse3}} </a><br></p>
+                                {{#if marriageDate3}}
+                                <h3>1st Marriage Date:</h3>
+                                <p>{{marriageDate3}} <br></p>
+                                {{/if}}
+                            {{/if}}
+                    {{/eq}}
+                    {{#eq marriageDate ""}}
+                        {{else}}
+                            {{#if marriageDate}}
+                            <h3> Marriage Date:</h3>
+                            <p>{{marriageDate}} <br></p>
+                            {{/if}}
+                    {{/eq}}
+                    {{#eq children ""}}
+                        {{else}}
+                            <h3>Children:</h3>
+                            {{#each children}}
+                                <h5> <li> <a href = "{{fileExist}}"> {{this}} </a> </li> </h5>
+                            {{/each}}
+                    {{/eq}}
+                    {{#eq placesLived ""}}
+                        {{else}}
+                            <h3>Places Lived:</h3>
+                            {{#each placesLived}}
+                                <p><li>{{this}}</li></p>
+                            {{/each}}
+                    {{/eq}}
+                    {{#eq immigrationYear ""}}
+                        {{else}}
+                            <h3>Immigration Year:</h3>
+                            <p>{{immigrationYear}} <br></p>
+                    {{/eq}}
+                    {{#eq occupation ""}}
+                        {{else}}
+                            <h3>Occupation:</h3>
+                            <p>{{occupation}} <br></p>
+                    {{/eq}}
+                    {{#eq collegeDegree ""}}
+                        {{else}}
+                            <h3>College Degree:</h3>
+                            <p>{{collegeDegree}} <br></p>
+                    {{/eq}}
+                    {{#eq religion ""}}
+                        {{else}}
+                            <h3>Religion:</h3>
+                            <p>{{religion}} <br></p>
+                    {{/eq}}
+                    {{#eq literate ""}}
+                        {{else}}
+                            <h3>Literate:</h3>
+                            <p>{{literate}} <br></p>
+                    {{/eq}}
+                    {{#eq SSN ""}}
+                        {{else}}
+                            <h3>SSN:</h3>
+                            <p>{{SSN}} <br></p>
+                    {{/eq}}
+                    {{#eq politicalAffiliation ""}}
+                        {{else}}
+                            <h3>Political Affiliation:</h3>
+                            <p>{{politicalAffiliation}} <br></p>
+                    {{/eq}}
+                    {{#eq otherInformation ""}}
+                        {{else}}
+                            <h3>Other Information:</h3>
+                            {{#each otherInformation}}
+                                <h5><li>{{this}}</li></h5>
+                            {{/each}}
+                    {{/eq}}
+                    {{#eq shipInformation ""}}
+                        {{else}}
+                            <h3> Ship Information:</h3>
+                            <p>{{shipInformation}} <br></p>
+                    {{/eq}}
+                    {{#eq whereWasInfoFound ""}}
+                        {{else}}
+                            <h3>Where was the information found?:</h3>
+                            {{#each whereWasInfoFound}}
+                                <h5><li>{{this}}</li></h5>
+                            {{/each}}
+                    {{/eq}}
+                </div>
+            </div>
+        </div>
+        <br>
+        <footer class="page-footer bg-dark">
+            <div class="footer-copyright text-center text-white py-3">
+                © 2020 Copyright:
+                <a class="text-white" href="index.html"> Groth Family Tree </a>
+            </div>
+        </footer>
+    </body>
+</html>

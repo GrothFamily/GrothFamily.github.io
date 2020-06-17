@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Groth Family Tree</title>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"></script>
+
+        <link rel = "stylesheet" href = "style.css">
+    </head>
+    <body>
+        <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+            <div class="navbar-header">
+                <a class="navbar-brand" href="index.html"> Home </a>
+            </div>
+            <ul class="navbar-nav">
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Family Names
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="index.html">Groth</a>
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Groth Photo Albums
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class = "dropdown-item" href="photoAlbum1.html"> Old Lady Album </a>
+                        <a class = "dropdown-item" href="photoAlbum2.html"> Black Non Shoe String </a>
+                        <a class = "dropdown-item" href="photoAlbum3.html"> Shoe String </a>
+                        <a class = "dropdown-item" href="loosephotos.html"> Loose Photos </a>
+                    </div>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Documents
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class = "dropdown-item" href="Censuses.html"> Censuses </a>
+                        <a class = "dropdown-item" href="MarriageDeathOther.html"> Marriage/Death/Other </a>
+                        <a class = "dropdown-item" href="concordialuthchurch.html"> Concordia Lutheran Church </a>
+                    </div>
+                </li>
+                <li class = "nav-item"><a class = "nav-link" href="familyecho.html"> Family Echo </a></li>
+            </ul>
+	    </nav>
+        <div class = "container">
+            <div class = "jumbotron"> 
+                <div class = "row">
+                    <div class = "col-md-6">
+                        <h3> <u> Download the Family Echo PDFs </u> </h3>
+                        {{#each pdfs}}
+                                <h4>
+                                    <br>
+                                    <a href = "{{filePath}}"> {{fileName}} </a>
+                                </h4>
+                        {{/each}}
+                    </div>
+                    <div class = "col-md-6">
+                        <h3> You can go to <a href = "https://www.familyecho.com">Family Echo</a> and enter the username and password.</h3>
+                        <ul>
+                            <li><h5> User: jasgr0th </h5></li>
+                            <li><h5> Pass: Gr0thFamilyTr33 </h5></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <footer>
+            
+        </footer>
+    </body>
+</html>
